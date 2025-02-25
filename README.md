@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimiboopy
+- 👋 Hi, I’m Gunjan 
 - 👀 I’m interested in ..."Machine Learning"
 - 🌱 I’m currently learning ..."DS and ML"
 - 💞️ I’m looking to collaborate on ...'ML Projects"
